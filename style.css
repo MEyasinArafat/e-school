@@ -2,22 +2,26 @@
     font-family: Poppins;
 }
 
+.container .top{
+    padding: 60px;
+}
 
 .head{
     text-align: center;
 }
 .card-img-top{
-
+vertical-align: middle;
+border-style: none;
 }
 .footer{
     text-align: center;
-    padding-top: 300px;
+    padding-top: 100px;
     color: white;
     
 }
 .back{
     background: #282531;
-    height: 500px;
+    height: 380px;
 }
 .top{
     background: #F0FFF0;
@@ -50,7 +54,8 @@
     padding-bottom: 30px;
 }
 
-btn btn-primary{
-    border-radius: 10px;
-    padding-bottom: 0px;
+.btn btn-primary{
+    border-radius: 15px;
+ 
+    
 }
